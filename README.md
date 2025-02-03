@@ -9,3 +9,15 @@ I am going to take this as a massive learning opportunity to make this app. I kn
 I will start this project small by using a simple model. So far, I have decided to use a SVC (subject to change). I will also begin this project very simple by only focusing on interpreting the ASL Alphabet rather than the entire langauge. Trying to tackle the whole language would be a very large task that would prove quite difficult for myself at this stage.
 
 After I have built on this strong base, I hope to expand this to the entire ASL language! I hope to use more complex and accurate Computer Vision and Deep Learning models to further improve this project. I hope to one day have this project available as a website and a mobile app.
+
+
+## Acknowledgements
+
+The ASL Alphabet letter images used to train my model are from a Kaggle dataset produced by Akash Nagaraj.
+
+
+    Dataset: ASL Alphabet
+    Author: Akash Nagaraj
+    Source: Kaggle
+    URL: https://www.kaggle.com/grassknoted/aslalphabet
+    DOI: 10.34740/KAGGLE/DSV/29550
